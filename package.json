@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "anyanime": "^1.2.21",
+    "axios": "^1.4.0",
+    "buffer-replace": "^1.0.0",
+    "chalk": "^2.4.2",
+    "discord-phub": "^1.0.6",
+    "discord-rpc": "^4.0.1",
+    "discord.js-v11-stable": "^11.6.5",
+    "hastebin": "^0.2.1",
+    "popcat-wrapper": "^1.5.1",
+    "prompts": "^2.4.2",
+    "randomatic": "^3.1.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "text-table": "^0.2.0"
+  }
+}
