@@ -3,19 +3,22 @@
 Erza est un selfbot Discord développé à l'origine par Vayd et repris par Arizaki. Il permet d'ajouter plusieurs fonctionnalités supplémentaires à votre expérience Discord en utilisant des commandes personnalisées.
 
 
+##Version actuelle:
+v1.0.6 [stable]
+
 ## Installation
 
-1. Clonez ce dépôt sur votre ordinateur ( git clone https://github.com/Ezra-Selfbot/Erza-Selfbot)
-2. Installez les dépendances avec la commande `npm install`
-3. Créez un fichier `config.js` et ajoutez-y votre token Discord :
+1. Clonez ce dépôt sur votre ordinateur ( git clone https://github.com/Ezra-Selfbot/Ezra_selfbot)
+2. Installez les dépendances avec la commande `npm install` ou lancer le fichier `install.bat`
+3. configurer le fichier `config.js` et ajoutez-y votre token Discord :
 ```
-DISCORD_TOKEN=YOUR_TOKEN_HERE
+token=Votre_token
 ```
 4. Lancez le selfbot avec la commande `npm start`
 
 ## OU 
 
-1. Allez sur le Discord / Sur le site et télécharger le fichier
+1. Allez sur le Discord / Sur le site et télécharger le fichier (https://erza-selfbot.netlify.app/)
 
 ## Whitelist
 
