@@ -1,4 +1,4 @@
 @echo off
-title Ezra Selfbot
+title Erza Selfbot
 node .
 pause
