@@ -1,6 +1,6 @@
 {
   "name": "erza-selfbot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Selfbot discord 2023.",
   "main": "index.js",
   "scripts": {
