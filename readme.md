@@ -4,8 +4,8 @@ Erza est un selfbot Discord développé à l'origine par Vayd et repris par Ariz
 
 
 ## Version actuelle:
-v1.0.7 [stable] <br>
-v1.0.7 [Dev] -> comming soon.
+v1.0.8 [stable] <br>
+v1.0.8 [Dev] -> comming soon.
 
 ## Installation
 
